@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\bin\ngeventhandler.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\bin\ngeventhandler.dll
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\bin\ngeventhandler.pdb
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.dll
+c:\users\user\documents\visual studio 2013\Projects\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\bin\ngeventhandler.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\bin\ngeventhandler.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\bin\ngeventhandler.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\AngularExamplesFolder\ngeventhandler\ngeventhandler\obj\Debug\ngeventhandler.pdb
